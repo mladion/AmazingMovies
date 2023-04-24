@@ -1,0 +1,12 @@
+/Users/ion.mladinoi/Projects/MovieApp/Shared/bin/Debug/net7.0/AmazingMovies.Models.deps.json
+/Users/ion.mladinoi/Projects/MovieApp/Shared/bin/Debug/net7.0/AmazingMovies.Models.dll
+/Users/ion.mladinoi/Projects/MovieApp/Shared/bin/Debug/net7.0/AmazingMovies.Models.pdb
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/AmazingMovies.Models.csproj.AssemblyReference.cache
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/AmazingMovies.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/AmazingMovies.Models.AssemblyInfoInputs.cache
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/AmazingMovies.Models.AssemblyInfo.cs
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/AmazingMovies.Models.csproj.CoreCompileInputs.cache
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/AmazingMovies.Models.dll
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/refint/AmazingMovies.Models.dll
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/AmazingMovies.Models.pdb
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/ref/AmazingMovies.Models.dll

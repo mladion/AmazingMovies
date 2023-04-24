@@ -1,0 +1,12 @@
+/Users/ion.mladinoi/Projects/MovieApp/Shared/bin/Debug/net7.0/Shared.deps.json
+/Users/ion.mladinoi/Projects/MovieApp/Shared/bin/Debug/net7.0/Shared.dll
+/Users/ion.mladinoi/Projects/MovieApp/Shared/bin/Debug/net7.0/Shared.pdb
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/Shared.csproj.AssemblyReference.cache
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/Shared.AssemblyInfoInputs.cache
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/Shared.AssemblyInfo.cs
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/Shared.csproj.CoreCompileInputs.cache
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/Shared.dll
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/refint/Shared.dll
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/Shared.pdb
+/Users/ion.mladinoi/Projects/MovieApp/Shared/obj/Debug/net7.0/ref/Shared.dll
